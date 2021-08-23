@@ -8,7 +8,7 @@ import {
   LightningBoltIcon,
   SearchIcon,
   UserIcon,
-} from '@heroicons/react/solid';
+} from '@heroicons/react/outline';
 
 function Header() {
   return (
